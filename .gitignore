@@ -1,0 +1,6 @@
+# gcc / g++ default executable
+a.out
+
+# python cache
+__pycache__/
+
